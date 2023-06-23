@@ -13,5 +13,11 @@
 [Kashyap Chitta. 2022] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving ([Code](https://github.com/autonomousvision/transfuser))
 <img width="400" alt="截屏2023-06-23 13 55 01" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3d482ac0-8a35-4a78-b333-ae106ccd3e72">
 
-[Hao Shao. 2023] Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer ([Code](https://github.com/opendilab/InterFuser))
+[Xuyang Bai. 2022 CVPR] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers ([Code](https://github.com/XuyangBai/TransFusion/))
+<img width="400" alt="截屏2023-06-23 14 11 33" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/a7a26693-4dcf-43fd-941f-5aaab41e6baa">
+
+[Hao Shao. 2023] (InterFuser) Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer ([Code](https://github.com/opendilab/InterFuser))
 <img width="400" alt="截屏2023-06-23 13 53 26" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/d242abb6-3a5f-42f3-b9af-fd1cd156e1a6">
+
+[Hao Shao. 2023] ReasonNet: End-to-End Driving with Temporal and Global Reasoning
+<img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
