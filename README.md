@@ -34,7 +34,7 @@
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
 
 
-## Others (DL-based fusion)
+## Other DL-based fusion
 ### Survey
 
 [Literature summary for e2e AD](https://github.com/opendilab/awesome-end-to-end-autonomous-driving)
