@@ -21,7 +21,7 @@
 ## Lidar+Camera
 [Aditya Prakash. 2021 CVPR] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 
-[Kashyap Chitta. 2022]^{I} TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving ([Code](https://github.com/autonomousvision/transfuser))
+[Kashyap Chitta. 2022] **I** TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving ([Code](https://github.com/autonomousvision/transfuser))
 <img width="400" alt="截屏2023-06-23 13 55 01" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3d482ac0-8a35-4a78-b333-ae106ccd3e72">
 
 [Xuyang Bai. 2022 CVPR] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers ([Code](https://github.com/XuyangBai/TransFusion/))
