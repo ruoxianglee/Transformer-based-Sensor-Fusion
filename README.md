@@ -25,3 +25,10 @@
 
 [Hao Shao. 2023 CVPR] ReasonNet: End-to-End Driving with Temporal and Global Reasoning
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
+
+
+## Others (DL-based fusion)
+### Survey
+[Danni Wu. 2022] Deep learning for LiDAR-only and LIDAR-fusion 3D perception: a survey
+![截屏2023-06-24 17 17 14](https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/81c573f7-200b-46af-8635-95336d85216c)
+![截屏2023-06-24 17 17 44](https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3022da24-0617-4900-ac93-19a3ca181896)
