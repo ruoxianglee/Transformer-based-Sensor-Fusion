@@ -4,8 +4,6 @@
 [Apoorv Singh. 2023] Transformer-Based Sensor Fusion for Autonomous Driving: A Survey
 <img width="400" alt="截屏2023-06-23 13 53 05" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/6f118cfb-d96d-44fd-9856-9d06e91d7c2b">
 
-[Github summary for e2e AD](https://github.com/opendilab/awesome-end-to-end-autonomous-driving)
-
 ## Benchmark
 [CARLA Leaderboard](https://leaderboard.carla.org/leaderboard/)
 
@@ -29,6 +27,9 @@
 
 ## Others (DL-based fusion)
 ### Survey
+
+[Literature summary for e2e AD](https://github.com/opendilab/awesome-end-to-end-autonomous-driving)
+
 [Danni Wu. 2022] Deep learning for LiDAR-only and LIDAR-fusion 3D perception: a survey
 <img width="400" alt="截屏2023-06-24 17 17 14" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/81c573f7-200b-46af-8635-95336d85216c">
 <img width="400" alt="截屏2023-06-24 17 17 44" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3022da24-0617-4900-ac93-19a3ca181896">
