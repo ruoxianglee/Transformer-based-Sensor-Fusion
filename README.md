@@ -22,6 +22,7 @@
 [Aditya Prakash. 2021 CVPR] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 
 [Kashyap Chitta. 2022 ] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving ([Code](https://github.com/autonomousvision/transfuser))
+
 Note:
 - Proposal-level fusion
 - Dataset based on CARLA
