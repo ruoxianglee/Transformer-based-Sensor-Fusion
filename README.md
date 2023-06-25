@@ -43,6 +43,9 @@ Note:
 <img width="400" alt="截屏2023-06-23 13 53 26" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/d242abb6-3a5f-42f3-b9af-fd1cd156e1a6">
 
 [Hao Shao. 2023 CVPR] ReasonNet: End-to-End Driving with Temporal and Global Reasoning
+Note:
+- Type: Deep fusion?
+- Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
 
 
