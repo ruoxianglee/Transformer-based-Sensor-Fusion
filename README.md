@@ -1,12 +1,12 @@
 # Transformer-based-Sensor-Fusion
 
-| Acronym | Note                                       |
+| - |      Type                                  |
 |---------|--------------------------------------------|
-| T       | Two-stage                                  |
-| S       | Single-stage                               |
-| E       | Early fusion, a.k.a, point-level           |
-| I       | Intermediate fusion, a.k.a, proposal-level |
-| L       | Late fusion, a.k.a, detection-level        |
+|     1.1   | Two-stage                                  |
+| 1.2      | Single-stage                               |
+| 2.1       | Early fusion, a.k.a, point-level           |
+| 2.2       | Intermediate fusion, a.k.a, proposal-level |
+| 2.3       | Late fusion, a.k.a, detection-level        |
 
 
 ## Survey
