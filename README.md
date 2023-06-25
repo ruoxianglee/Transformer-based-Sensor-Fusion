@@ -24,18 +24,22 @@
 [Kashyap Chitta. 2022 ] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving ([Code](https://github.com/autonomousvision/transfuser))
 
 Note:
-- Proposal-level fusion
-- Dataset based on CARLA
+- Type: Proposal-level fusion
+- Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 13 55 01" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3d482ac0-8a35-4a78-b333-ae106ccd3e72">
 
 [Xuyang Bai. 2022 CVPR] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers ([Code](https://github.com/XuyangBai/TransFusion/))
 
 Note:
-- Deep fusion
-- Dataset based on nuScenes
+- Type: Deep fusion
+- Dataset: nuScenes
 <img width="400" alt="截屏2023-06-23 14 11 33" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/a7a26693-4dcf-43fd-941f-5aaab41e6baa">
 
 [Hao Shao. 2022 CoRL] InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer ([Code](https://github.com/opendilab/InterFuser))
+
+Note:
+- Type: Deep fusion
+- Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 13 53 26" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/d242abb6-3a5f-42f3-b9af-fd1cd156e1a6">
 
 [Hao Shao. 2023 CVPR] ReasonNet: End-to-End Driving with Temporal and Global Reasoning
