@@ -29,6 +29,10 @@ Note:
 <img width="400" alt="截屏2023-06-23 13 55 01" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/3d482ac0-8a35-4a78-b333-ae106ccd3e72">
 
 [Xuyang Bai. 2022 CVPR] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers ([Code](https://github.com/XuyangBai/TransFusion/))
+
+Note:
+- Deep fusion
+- Dataset based on nuScenes
 <img width="400" alt="截屏2023-06-23 14 11 33" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/a7a26693-4dcf-43fd-941f-5aaab41e6baa">
 
 [Hao Shao. 2022 CoRL] InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer ([Code](https://github.com/opendilab/InterFuser))
