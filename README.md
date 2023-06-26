@@ -74,6 +74,28 @@ Note:
 - Dataset: nuScenes
 <img width="400" alt="截屏2023-06-26 17 43 33" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/d406169d-87fe-4dc2-997b-44ec4483f38a">
 
+[Yanwei Li. 2022 NeurIPS] Unifying voxel-based representation with transformer for 3d object detection ([Code](https://github.com/dvlab-research/UVTR)) 
+
+Note:
+- Type: 
+- Dataset: nuScenes
+<img width="400" alt="截屏2023-06-26 17 50 09" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/fe2efbd1-7071-46ae-87f7-dc98ea7133f6">
+
+[Yihan Zeng. 2022 CVPR] LIFT: Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection
+
+Note:
+- Type:
+- Dataset: nuScenes, Waymo
+<img width="400" alt="截屏2023-06-26 18 03 17" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/1fc58247-f5dd-49dc-a9f5-5d0d5794bf83">
+
+[Zeyu Yang. 2022 NeurIPS] Deepinteraction: 3d object detection via modality interaction ([Code](https://github.com/fudan-zvg/DeepInteraction))
+
+Note:
+- Type:
+- Dataset: nuScenes
+<img width="400" alt="截屏2023-06-26 18 07 31" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/2ac7b083-1035-4482-8c8e-00e123640cc7">
+
+
 ## Unified Framework (LiDAR, Camera, Radar)
 [Xuanyao Chen. 2023 CVPR] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection ([Code](https://github.com/Tsinghua-MARS-Lab/futr3d))
 
@@ -82,6 +104,8 @@ Note:
 - Dataset: nuScenes
 <img width="400" alt="截屏2023-06-26 15 59 48" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/68462514-a775-40ce-9bff-dc7ff56ed293">
 <img width="400" alt="截屏2023-06-26 16 00 02" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/e2e437e2-cfc1-4e48-93d4-282b1b8e4440">
+
+
 
 ## Other DL-based fusion
 ### Survey
