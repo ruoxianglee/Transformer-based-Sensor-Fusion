@@ -5,7 +5,7 @@
 |     1.1   | Two-stage                                  |
 | 1.2      | Single-stage                               |
 | 2.1       | Early fusion, a.k.a, point-level           |
-| 2.2       | Intermediate fusion, a.k.a, proposal-level |
+| 2.2       | Deep fusion, a.k.a, proposal-level |
 | 2.3       | Late fusion, a.k.a, detection-level        |
 
 
@@ -51,6 +51,14 @@ Note:
 - Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
 
+## Unified Framework
+[Xuanyao Chen. 2023 CVPR] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection ([Code](https://github.com/Tsinghua-MARS-Lab/futr3d))
+
+Note:
+- Type: Deep fusion
+- Dataset: nuScenes
+<img width="400" alt="截屏2023-06-26 15 59 48" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/68462514-a775-40ce-9bff-dc7ff56ed293">
+<img width="400" alt="截屏2023-06-26 16 00 02" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/e2e437e2-cfc1-4e48-93d4-282b1b8e4440">
 
 ## Other DL-based fusion
 ### Survey
