@@ -51,6 +51,23 @@ Note:
 - Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
 
+[Zehui Chen. 2022 IJCAI] Autoalign: Pixel-instance feature aggregation for multi-modal 3d object detection
+
+Note:
+- Type: Deep fusion
+- Dataset: KITTI, nuScenes
+<img width="400" alt="截屏2023-06-26 17 15 39" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/e3bba931-af30-4aec-a686-02b208c14bbe">
+
+[Zehui Chen. 2022 ECCV] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection ([Code](https://github.com/zehuichen123/AutoAlignV2))
+
+Note:
+- Type: Deep fusion
+- Dataset: nuScenes
+
+<img width="400" alt="截屏2023-06-26 17 31 41" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/031f33f7-1e89-4eb9-a74a-4639e7a15e10">
+<img width="400" alt="截屏2023-06-26 17 31 13" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/65e6d811-c8fa-422e-9b41-df2314149642">
+
+
 ## Unified Framework (LiDAR, Camera, Radar)
 [Xuanyao Chen. 2023 CVPR] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection ([Code](https://github.com/Tsinghua-MARS-Lab/futr3d))
 
