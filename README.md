@@ -64,7 +64,7 @@ Note:
 - Type: Deep fusion
 - Dataset: nuScenes
 
-<img width="400" alt="截屏2023-06-26 17 31 41" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/031f33f7-1e89-4eb9-a74a-4639e7a15e10">
+<img width="300" alt="截屏2023-06-26 17 31 41" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/031f33f7-1e89-4eb9-a74a-4639e7a15e10">
 <img width="400" alt="截屏2023-06-26 17 31 13" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/65e6d811-c8fa-422e-9b41-df2314149642">
 
 
