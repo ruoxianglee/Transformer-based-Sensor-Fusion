@@ -51,7 +51,7 @@ Note:
 - Dataset: CARLA
 <img width="400" alt="截屏2023-06-23 14 20 10" src="https://github.com/ruoxianglee/Transformer-based-Sensor-Fusion/assets/36948139/bda8755a-4ddb-4c0f-8315-c5d2b58d3bb3">
 
-## Unified Framework
+## Unified Framework (LiDAR, Camera, Radar)
 [Xuanyao Chen. 2023 CVPR] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection ([Code](https://github.com/Tsinghua-MARS-Lab/futr3d))
 
 Note:
